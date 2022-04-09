@@ -4,6 +4,18 @@
 
 }
 
+h1 { 
+
+    color: rgb(84, 123, 196);
+
+}
+
+
+a:link {text-decoration: none;}
+a:hover {text-decoration: underline;}
+a{
+    color: rgb(114, 180, 192);
+} 
 body {
     background-color: rgb(127, 111, 216);
 }
@@ -12,6 +24,10 @@ main{
     background-color: rgb(254, 254, 255);
     width: 500px;
     margin: auto;
-    padding: 10px;
-    box-shadow: 3px 3px 5px rgba(0, 0, 0, 0.473);
+    padding: 20px;
+    box-shadow: 3px 3px 5px rgba(0, 0, 0, 0.459);
+}
+
+img.lado {
+    float: right;
 }
